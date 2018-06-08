@@ -1,11 +1,11 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "org.conman.errno"
-version = "1.0.1-0"
+version = "1.0.1-1"
 
 -- LuaDist source
 source = {
-  tag = "1.0.1-0",
+  tag = "1.0.1-1",
   url = "git://github.com/LuaDist-testing/org.conman.errno.git"
 }
 -- Original source
@@ -28,7 +28,7 @@ description =
 
 dependencies =
 {
-  "lua >= 5.1, < 5.3",
+  "lua >= 5.1, < 5.4",
 }
 
 build =
